@@ -1,9 +1,9 @@
 {
     "name": "pair session",
-    "description": "Web Session Generator",
-    "logo": "https://i.imgur.com/teQzVR1.jpeg",
-    "repository": "https://github.com/XdKing2/malvin-pair",
-    "keywords": ["MalvinTech","XdKing2"],
+    "description": "rony Session Generator",
+    "logo": "https://files.catbox.moe/sk5pst.jpg",
+    "repository": "https://github.com/ronaldomazive915-source",
+    "keywords": ["RONYSKIES","RGMskies"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
     "env": {      
